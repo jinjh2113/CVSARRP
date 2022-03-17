@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Aug 11 16:40:06 2021
-Wu method
-@author: Lenovo
+@author: JJH
 """
 import itertools
 from itertools import chain
